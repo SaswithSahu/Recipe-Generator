@@ -2,10 +2,7 @@
 # 🍳 Recipe Generator with Fine-Tuned GPT-2
 
 A simple **recipe generation app** powered by a fine-tuned version of **DistilGPT-2**.  
-Users can enter ingredients in a chat-like interface, and the app will generate recipe suggestions.
-
-
-````
+Users can enter ingredients in a chat-like interface, and the app will generate recipe suggestions
 
 ---
 
