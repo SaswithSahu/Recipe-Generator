@@ -4,24 +4,6 @@
 A simple **recipe generation app** powered by a fine-tuned version of **DistilGPT-2**.  
 Users can enter ingredients in a chat-like interface, and the app will generate recipe suggestions.
 
----
-
-## 📂 Project Structure
-
-```
-
-Task-2/
-├── data/
-│    └── recipes.jsonl        # Training dataset
-├── models/
-│    └── distilgpt2-recipe/   # Fine-tuned model (download separately)
-├── scripts/
-│    └── api\_cpu.py           # FastAPI backend
-├── index.html                # Frontend chat UI
-├── style.css                 # Frontend styles
-├── script.js                 # Frontend logic
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
 
 ````
 
